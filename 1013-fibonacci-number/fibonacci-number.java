@@ -4,7 +4,7 @@ class Solution {
         if(n<2)
         return n;
         if(map.containsKey(n)){
-            map.get(n);
+            return map.get(n);
         }
         int result=fib(n-1)+fib(n-2);
         map.put(n,result);
