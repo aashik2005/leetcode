@@ -1,11 +1,9 @@
 class Solution {
     private static int check(int num){
-        int ck=0;
-        while(num>0){
-            ck++;
-            num/=10;
+        if(num<0){
+            num=num*-1;
         }
-        return ck;
+        return (int)Math.log10(num)+1;
     }
     public int findNumbers(int[] nums) {
         int count=0;
