@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aashik2005/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/aashik2005/leetcode/tree/master/0189-rotate-array) |
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
 ## Binary Search
 |  |
@@ -37,6 +38,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aashik2005/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aashik2005/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/aashik2005/leetcode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -45,4 +47,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aashik2005/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/aashik2005/leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
