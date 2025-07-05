@@ -9,6 +9,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/aashik2005/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/aashik2005/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aashik2005/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/aashik2005/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/aashik2005/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/aashik2005/leetcode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aashik2005/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aashik2005/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/aashik2005/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/aashik2005/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aashik2005/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0792-binary-search](https://github.com/aashik2005/leetcode/tree/master/0792-binary-search) |
