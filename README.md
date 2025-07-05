@@ -9,6 +9,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/aashik2005/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/aashik2005/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aashik2005/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/aashik2005/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/aashik2005/leetcode/tree/master/0189-rotate-array) |
 | [0792-binary-search](https://github.com/aashik2005/leetcode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aashik2005/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/aashik2005/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/aashik2005/leetcode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
 ## Depth-First Search
@@ -37,6 +39,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/aashik2005/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
 ## Two Pointers
 |  |
