@@ -13,6 +13,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/aashik2005/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/aashik2005/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/aashik2005/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0179-largest-number](https://github.com/aashik2005/leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/aashik2005/leetcode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aashik2005/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0792-binary-search](https://github.com/aashik2005/leetcode/tree/master/0792-binary-search) |
@@ -62,6 +63,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/aashik2005/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/aashik2005/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/aashik2005/leetcode/tree/master/0014-longest-common-prefix) |
+| [0179-largest-number](https://github.com/aashik2005/leetcode/tree/master/0179-largest-number) |
 | [1250-longest-common-subsequence](https://github.com/aashik2005/leetcode/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -93,8 +95,13 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aashik2005/leetcode/tree/master/0015-3sum) |
+| [0179-largest-number](https://github.com/aashik2005/leetcode/tree/master/0179-largest-number) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aashik2005/leetcode/tree/master/0054-spiral-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/aashik2005/leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
