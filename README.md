@@ -14,6 +14,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/aashik2005/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/aashik2005/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/aashik2005/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/aashik2005/leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/aashik2005/leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/aashik2005/leetcode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aashik2005/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -59,6 +60,7 @@
 | [0015-3sum](https://github.com/aashik2005/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aashik2005/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/aashik2005/leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/aashik2005/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/aashik2005/leetcode/tree/master/0189-rotate-array) |
 ## String
 |  |
@@ -100,6 +102,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aashik2005/leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/aashik2005/leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/aashik2005/leetcode/tree/master/0179-largest-number) |
 ## Simulation
 |  |
