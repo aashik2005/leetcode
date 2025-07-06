@@ -75,6 +75,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/aashik2005/leetcode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/aashik2005/leetcode/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
