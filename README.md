@@ -18,6 +18,7 @@
 | [0179-largest-number](https://github.com/aashik2005/leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/aashik2005/leetcode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aashik2005/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/aashik2005/leetcode/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/aashik2005/leetcode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aashik2005/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -64,6 +65,7 @@
 | [0075-sort-colors](https://github.com/aashik2005/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/aashik2005/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/aashik2005/leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/aashik2005/leetcode/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
