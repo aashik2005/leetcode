@@ -19,6 +19,7 @@
 | [0189-rotate-array](https://github.com/aashik2005/leetcode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aashik2005/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/aashik2005/leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/aashik2005/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/aashik2005/leetcode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aashik2005/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
