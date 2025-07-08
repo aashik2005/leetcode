@@ -9,27 +9,29 @@ class Solution {
         }
     }
     public void nextPermutation(int[] nums) {
-        int size=nums.length;
-        int ind=-1;
-        for(int i=size-2;i>=0;i--){
+        int index=-1;
+        int n=nums.length;
+        for(int i=n-2;i>=0;i--){
             if(nums[i]<nums[i+1]){
-                ind=i;
+                index=i;
                 break;
             }
         }
-        if(ind==-1){
-            reverse(nums,0,size-1);
+        if(index==-1){
+            reverse(nums,0,n-1);
             return;
         }
-        for(int j=size-1;j>=0;j--){
-            if(nums[j]>nums[ind]){
-                int temp=nums[j];
-                nums[j]=nums[ind];
-                nums[ind]=temp;
+        int end=n-1;
+        for(int i=n-1;i>index;i--){
+            if(nums[i]>nums[index]){
+                int temp=nums[i];
+                nums[i]=nums[index];
+                nums[index]=temp;
+                end=i;
+                index++;
                 break;
             }
         }
-        reverse(nums,ind+1,size-1);
-        return;
+        reverse(nums,index,n-1);
     }
 }
