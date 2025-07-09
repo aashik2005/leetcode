@@ -8,10 +8,8 @@ class Solution {
             return false;
         }
         for(int i=0;i<size1;i++){
-            int ind1=s.charAt(i)-'a';
-            int ind2=t.charAt(i)-'a';
-            arr1[ind1]+=1;
-            arr2[ind2]+=1;
+            arr1[s.charAt(i)-'a']+=1;
+            arr2[t.charAt(i)-'a']+=1;
         }
         for(int i=0;i<26;i++){
             if(arr1[i]!=arr2[i]){
