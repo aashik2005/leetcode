@@ -31,6 +31,7 @@
 | [0238-product-of-array-except-self](https://github.com/aashik2005/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aashik2005/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/aashik2005/leetcode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/aashik2005/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/aashik2005/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/aashik2005/leetcode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
@@ -62,6 +63,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aashik2005/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
 ## Matrix
 |  |
@@ -116,6 +118,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/aashik2005/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/aashik2005/leetcode/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aashik2005/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/aashik2005/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +129,7 @@
 | [0217-contains-duplicate](https://github.com/aashik2005/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/aashik2005/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aashik2005/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/aashik2005/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aashik2005/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Sliding Window
 |  |
@@ -145,6 +149,7 @@
 | [0217-contains-duplicate](https://github.com/aashik2005/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/aashik2005/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aashik2005/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/aashik2005/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -158,6 +163,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/aashik2005/leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/aashik2005/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aashik2005/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -167,4 +173,12 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aashik2005/leetcode/tree/master/0238-product-of-array-except-self) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aashik2005/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aashik2005/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
