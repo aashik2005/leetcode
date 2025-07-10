@@ -28,6 +28,7 @@
 | [0189-rotate-array](https://github.com/aashik2005/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/aashik2005/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/aashik2005/leetcode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/aashik2005/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aashik2005/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/aashik2005/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aashik2005/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -162,4 +163,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aashik2005/leetcode/tree/master/0136-single-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/aashik2005/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
