@@ -29,15 +29,15 @@ class Solution {
                     }
                     else if(sum>target){
                         right--;
-                        // while(right!=0 && nums[right]==nums[right+1]){
-                        //     right--;
-                        // }
+                        while(right!=0 && nums[right]==nums[right+1]){
+                            right--;
+                        }
                     }
                     else{
                         left++;
-                        // while(left!=(n-1) &&  nums[left]==nums[left-1]){
-                        //     left++;
-                        // }
+                        while(left!=(n-1) &&  nums[left]==nums[left-1]){
+                            left++;
+                        }
                     }
                 }
             }
