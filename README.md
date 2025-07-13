@@ -14,6 +14,7 @@
 | [0031-next-permutation](https://github.com/aashik2005/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aashik2005/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/aashik2005/leetcode/tree/master/0035-search-insert-position) |
+| [0047-permutations-ii](https://github.com/aashik2005/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/aashik2005/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aashik2005/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/aashik2005/leetcode/tree/master/0053-maximum-subarray) |
@@ -158,6 +159,7 @@
 | ------- |
 | [0015-3sum](https://github.com/aashik2005/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aashik2005/leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/aashik2005/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/aashik2005/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aashik2005/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aashik2005/leetcode/tree/master/0075-sort-colors) |
@@ -199,4 +201,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aashik2005/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/aashik2005/leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
