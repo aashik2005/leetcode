@@ -14,6 +14,7 @@
 | [0031-next-permutation](https://github.com/aashik2005/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aashik2005/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/aashik2005/leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/aashik2005/leetcode/tree/master/0036-valid-sudoku) |
 | [0047-permutations-ii](https://github.com/aashik2005/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/aashik2005/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aashik2005/leetcode/tree/master/0049-group-anagrams) |
@@ -78,6 +79,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/aashik2005/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/aashik2005/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aashik2005/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aashik2005/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -138,6 +140,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aashik2005/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/aashik2005/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/aashik2005/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/aashik2005/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/aashik2005/leetcode/tree/master/0128-longest-consecutive-sequence) |
