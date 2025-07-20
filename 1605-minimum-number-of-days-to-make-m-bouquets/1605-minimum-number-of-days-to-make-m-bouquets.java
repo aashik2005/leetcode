@@ -1,4 +1,21 @@
 class Solution {
+    private static int numDays(int[] bloomDay,int k,int mid){
+        int bouq=0;
+            int need=0;
+            for(int n:bloomDay){
+                if(n<=mid){
+                    need++;
+                }
+                else{
+                    need=0;
+                }
+                if(need==k){
+                    need=0;
+                    bouq++;
+                }
+            }
+            return bouq;
+    }
     public int minDays(int[] bloomDay, int m, int k) {
         int size=bloomDay.length;
         long check=(long)m*(long)k;
@@ -14,21 +31,7 @@ class Solution {
         }
         while(mini<=maxi){
             int mid=(mini+maxi)/2;
-            // int days=noOfDays(bloomDay,mid);
-            int bouq=0;
-            int need=0;
-            for(int n:bloomDay){
-                if(n<=mid){
-                    need++;
-                }
-                else{
-                    need=0;
-                }
-                if(need==k){
-                    need=0;
-                    bouq++;
-                }
-            }
+            int bouq=numDays(bloomDay,k,mid);
             if(bouq>=m){
                 maxi=mid-1;
                 ans=mid;
