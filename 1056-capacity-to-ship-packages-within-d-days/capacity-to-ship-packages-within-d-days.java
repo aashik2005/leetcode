@@ -7,11 +7,11 @@ class Solution {
             mini=Math.max(mini,n);
         }
         int ans=maxi;
+        int day=0;
+        int val=0,i=0;
         while(mini<=maxi){
             int mid=(mini+maxi)/2;
-            int day=0;
-            int val=0;
-            int i=0;
+            day=0;val=0; i=0;
             while(i<weights.length){
                 val+=weights[i];
                 if(val==mid){
