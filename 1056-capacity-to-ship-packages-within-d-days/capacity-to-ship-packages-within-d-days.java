@@ -19,7 +19,7 @@ class Solution {
                     i++;
                     val=0;
                 }
-                else if(val<mid){
+                else{
                     i++;
                     while(i<weights.length && (val+weights[i])<=mid){
                         val+=weights[i];
@@ -27,9 +27,6 @@ class Solution {
                     }
                     val=0;
                     day++;
-                }
-                else{
-                    i++;
                 }
             }
             if(day<=days){
