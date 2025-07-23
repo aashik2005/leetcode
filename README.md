@@ -157,6 +157,7 @@
 | [0007-reverse-integer](https://github.com/aashik2005/leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/aashik2005/leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/aashik2005/leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/aashik2005/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/aashik2005/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/aashik2005/leetcode/tree/master/0189-rotate-array) |
 | [2032-largest-odd-number-in-string](https://github.com/aashik2005/leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -249,4 +250,8 @@
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/aashik2005/leetcode/tree/master/1078-remove-outermost-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/aashik2005/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
