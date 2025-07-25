@@ -138,6 +138,7 @@
 | [0179-largest-number](https://github.com/aashik2005/leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/aashik2005/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aashik2005/leetcode/tree/master/0242-valid-anagram) |
+| [0812-rotate-string](https://github.com/aashik2005/leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/aashik2005/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/aashik2005/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aashik2005/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -267,4 +268,8 @@
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/aashik2005/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/aashik2005/leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
