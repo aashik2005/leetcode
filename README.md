@@ -173,6 +173,7 @@
 | [0066-plus-one](https://github.com/aashik2005/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/aashik2005/leetcode/tree/master/0189-rotate-array) |
 | [2032-largest-odd-number-in-string](https://github.com/aashik2005/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/aashik2005/leetcode/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -276,6 +277,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aashik2005/leetcode/tree/master/0050-powx-n) |
+| [2050-count-good-numbers](https://github.com/aashik2005/leetcode/tree/master/2050-count-good-numbers) |
 ## Queue
 |  |
 | ------- |
