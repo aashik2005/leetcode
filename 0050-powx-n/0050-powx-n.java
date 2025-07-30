@@ -6,19 +6,19 @@ class Solution {
             x = 1 / x;
             nn = -nn;
         }
-
-        return power(x, nn);
+        return Math.pow(x,nn);
+        //return power(x, nn);
     }
 
-    private double power(double x, long n) {
-        if (n == 0) return 1;
+    // private double power(double x, long n) {
+    //     if (n == 0) return 1;
 
-        double half = power(x, n / 2);
+    //     double half = power(x, n / 2);
 
-        if (n % 2 == 0) {
-            return half * half;
-        } else {
-            return half * half * x;
-        }
-    }
+    //     if (n % 2 == 0) {
+    //         return half * half;
+    //     } else {
+    //         return half * half * x;
+    //     }
+    // }
 }
