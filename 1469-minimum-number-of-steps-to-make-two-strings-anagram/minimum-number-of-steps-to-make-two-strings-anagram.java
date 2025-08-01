@@ -1,7 +1,6 @@
 class Solution {
     public int minSteps(String s, String t) {
         HashMap<Character,Integer> mapS=new HashMap<>();
-        HashMap<Character,Integer> mapT=new HashMap<>();
         for(char ch:s.toCharArray()){
             mapS.put(ch,mapS.getOrDefault(ch,0)+1);
         }
@@ -19,7 +18,6 @@ class Solution {
         for(char key:mapS.keySet()){
             count1+=mapS.get(key);
         }
-        int count2=0;
         return count1;
     }
 }
