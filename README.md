@@ -59,6 +59,7 @@
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/aashik2005/leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/aashik2005/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aashik2005/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1370-count-number-of-nice-subarrays](https://github.com/aashik2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aashik2005/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aashik2005/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/aashik2005/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -184,6 +185,7 @@
 | [0050-powx-n](https://github.com/aashik2005/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/aashik2005/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/aashik2005/leetcode/tree/master/0189-rotate-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/aashik2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/aashik2005/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/aashik2005/leetcode/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
@@ -212,6 +214,7 @@
 | [0347-top-k-frequent-elements](https://github.com/aashik2005/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aashik2005/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/aashik2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1370-count-number-of-nice-subarrays](https://github.com/aashik2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aashik2005/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aashik2005/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/aashik2005/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -220,6 +223,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aashik2005/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/aashik2005/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/aashik2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Trie
 |  |
 | ------- |
@@ -272,6 +276,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aashik2005/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/aashik2005/leetcode/tree/master/0410-split-array-largest-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/aashik2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Bucket Sort
 |  |
 | ------- |
