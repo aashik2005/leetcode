@@ -61,6 +61,7 @@
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/aashik2005/leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/aashik2005/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [0966-binary-subarrays-with-sum](https://github.com/aashik2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/aashik2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aashik2005/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aashik2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -225,6 +226,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/aashik2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/aashik2005/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aashik2005/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/aashik2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aashik2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aashik2005/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aashik2005/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -235,6 +237,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aashik2005/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/aashik2005/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0966-binary-subarrays-with-sum](https://github.com/aashik2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/aashik2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aashik2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/aashik2005/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -293,6 +296,7 @@
 | [0525-contiguous-array](https://github.com/aashik2005/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aashik2005/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/aashik2005/leetcode/tree/master/0724-find-pivot-index) |
+| [0966-binary-subarrays-with-sum](https://github.com/aashik2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/aashik2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aashik2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/aashik2005/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
