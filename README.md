@@ -198,6 +198,7 @@
 | [0050-powx-n](https://github.com/aashik2005/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/aashik2005/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/aashik2005/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/aashik2005/leetcode/tree/master/0231-power-of-two) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aashik2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/aashik2005/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/aashik2005/leetcode/tree/master/2050-count-good-numbers) |
@@ -290,6 +291,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aashik2005/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/aashik2005/leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/aashik2005/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
@@ -327,6 +329,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aashik2005/leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/aashik2005/leetcode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/aashik2005/leetcode/tree/master/2050-count-good-numbers) |
 ## Queue
 |  |
