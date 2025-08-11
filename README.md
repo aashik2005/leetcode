@@ -17,6 +17,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aashik2005/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aashik2005/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/aashik2005/leetcode/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/aashik2005/leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/aashik2005/leetcode/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/aashik2005/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/aashik2005/leetcode/tree/master/0048-rotate-image) |
@@ -320,6 +321,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/aashik2005/leetcode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/aashik2005/leetcode/tree/master/0047-permutations-ii) |
 ## Stack
 |  |
