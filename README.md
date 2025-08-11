@@ -172,6 +172,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/aashik2005/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/aashik2005/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aashik2005/leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/aashik2005/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aashik2005/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aashik2005/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/aashik2005/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -236,6 +237,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/aashik2005/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/aashik2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aashik2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/aashik2005/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aashik2005/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aashik2005/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/aashik2005/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -248,6 +250,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/aashik2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/aashik2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aashik2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/aashik2005/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aashik2005/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/aashik2005/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Trie
