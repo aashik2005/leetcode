@@ -67,6 +67,7 @@
 | [0792-binary-search](https://github.com/aashik2005/leetcode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/aashik2005/leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [0890-lemonade-change](https://github.com/aashik2005/leetcode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/aashik2005/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/aashik2005/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/aashik2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -295,6 +296,7 @@
 | [0011-container-with-most-water](https://github.com/aashik2005/leetcode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/aashik2005/leetcode/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/aashik2005/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0890-lemonade-change](https://github.com/aashik2005/leetcode/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/aashik2005/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Counting
 |  |
