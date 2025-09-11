@@ -172,6 +172,7 @@
 | [0022-generate-parentheses](https://github.com/aashik2005/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/aashik2005/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/aashik2005/leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/aashik2005/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/aashik2005/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/aashik2005/leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/aashik2005/leetcode/tree/master/0205-isomorphic-strings) |
@@ -198,6 +199,7 @@
 | [0118-pascals-triangle](https://github.com/aashik2005/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aashik2005/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aashik2005/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/aashik2005/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/aashik2005/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/aashik2005/leetcode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/aashik2005/leetcode/tree/master/0410-split-array-largest-sum) |
@@ -349,6 +351,7 @@
 | [0047-permutations-ii](https://github.com/aashik2005/leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/aashik2005/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aashik2005/leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/aashik2005/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
 | ------- |
