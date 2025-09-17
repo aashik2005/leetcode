@@ -369,6 +369,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aashik2005/leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/aashik2005/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/aashik2005/leetcode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/aashik2005/leetcode/tree/master/2050-count-good-numbers) |
 ## Queue
@@ -395,4 +396,8 @@
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/aashik2005/leetcode/tree/master/1511-count-number-of-teams) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/aashik2005/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
