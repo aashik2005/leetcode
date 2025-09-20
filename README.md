@@ -162,6 +162,7 @@
 | [0283-move-zeroes](https://github.com/aashik2005/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aashik2005/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/aashik2005/leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/aashik2005/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aashik2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -407,4 +408,5 @@
 | [0141-linked-list-cycle](https://github.com/aashik2005/leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/aashik2005/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aashik2005/leetcode/tree/master/0234-palindrome-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/aashik2005/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
