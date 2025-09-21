@@ -25,14 +25,14 @@ class Solution {
             odd=odd.next;
             even=even.next;
         }
-        if(odd!=null && odd.next!=null && odd.next.next!=null){
-            odd.next=odd.next.next;
-            odd.next=null;
-        }
-        if(even!=null && even.next!=null && even.next.next!=null){
-            even.next=even.next.next;
-            even.next=null;
-        }
+        // if(odd!=null && odd.next!=null && odd.next.next!=null){
+        //     odd.next=odd.next.next;
+        //     odd.next=null;
+        // }
+        // if(even!=null && even.next!=null && even.next.next!=null){
+        //     even.next=even.next.next;
+        //     even.next=null;
+        // }
         
         odd.next=join;
         return head;
