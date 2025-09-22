@@ -242,6 +242,7 @@
 | [0342-power-of-four](https://github.com/aashik2005/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/aashik2005/leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/aashik2005/leetcode/tree/master/0441-arranging-coins) |
+| [0507-perfect-number](https://github.com/aashik2005/leetcode/tree/master/0507-perfect-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aashik2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/aashik2005/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/aashik2005/leetcode/tree/master/2050-count-good-numbers) |
