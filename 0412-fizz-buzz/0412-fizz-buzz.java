@@ -12,7 +12,7 @@ class Solution {
                 ans.add("Buzz");
             }
             else{
-                ans.add(String.valueOf(num));
+                ans.add(Integer.toString(num));
             }
         }
         return ans;
