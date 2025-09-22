@@ -194,6 +194,7 @@
 | [0242-valid-anagram](https://github.com/aashik2005/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aashik2005/leetcode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/aashik2005/leetcode/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/aashik2005/leetcode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/aashik2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/aashik2005/leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/aashik2005/leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -238,6 +239,7 @@
 | [0231-power-of-two](https://github.com/aashik2005/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/aashik2005/leetcode/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/aashik2005/leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/aashik2005/leetcode/tree/master/0412-fizz-buzz) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aashik2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/aashik2005/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/aashik2005/leetcode/tree/master/2050-count-good-numbers) |
@@ -321,6 +323,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/aashik2005/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aashik2005/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0412-fizz-buzz](https://github.com/aashik2005/leetcode/tree/master/0412-fizz-buzz) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aashik2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
