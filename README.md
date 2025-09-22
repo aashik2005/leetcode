@@ -101,6 +101,7 @@
 | [0287-find-the-duplicate-number](https://github.com/aashik2005/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/aashik2005/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/aashik2005/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/aashik2005/leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aashik2005/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/aashik2005/leetcode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
@@ -240,6 +241,7 @@
 | [0263-ugly-number](https://github.com/aashik2005/leetcode/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/aashik2005/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/aashik2005/leetcode/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/aashik2005/leetcode/tree/master/0441-arranging-coins) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aashik2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/aashik2005/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/aashik2005/leetcode/tree/master/2050-count-good-numbers) |
