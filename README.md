@@ -234,6 +234,7 @@
 | [0189-rotate-array](https://github.com/aashik2005/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/aashik2005/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/aashik2005/leetcode/tree/master/0263-ugly-number) |
+| [0342-power-of-four](https://github.com/aashik2005/leetcode/tree/master/0342-power-of-four) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aashik2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/aashik2005/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/aashik2005/leetcode/tree/master/2050-count-good-numbers) |
@@ -341,6 +342,7 @@
 | [0136-single-number](https://github.com/aashik2005/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/aashik2005/leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/aashik2005/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/aashik2005/leetcode/tree/master/0342-power-of-four) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -393,6 +395,7 @@
 | [0206-reverse-linked-list](https://github.com/aashik2005/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/aashik2005/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/aashik2005/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/aashik2005/leetcode/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/aashik2005/leetcode/tree/master/2050-count-good-numbers) |
 ## Queue
 |  |
