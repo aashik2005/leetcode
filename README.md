@@ -231,6 +231,7 @@
 | [0066-plus-one](https://github.com/aashik2005/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/aashik2005/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/aashik2005/leetcode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/aashik2005/leetcode/tree/master/0263-ugly-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aashik2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/aashik2005/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/aashik2005/leetcode/tree/master/2050-count-good-numbers) |
