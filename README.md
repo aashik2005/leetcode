@@ -213,6 +213,7 @@
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aashik2005/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aashik2005/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/aashik2005/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/aashik2005/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/aashik2005/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/aashik2005/leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 ## Dynamic Programming
@@ -299,6 +300,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/aashik2005/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/aashik2005/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/aashik2005/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/aashik2005/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Sliding Window
 |  |
 | ------- |
