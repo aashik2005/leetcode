@@ -87,6 +87,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/aashik2005/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aashik2005/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/aashik2005/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/aashik2005/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aashik2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3226-minimum-number-game](https://github.com/aashik2005/leetcode/tree/master/3226-minimum-number-game) |
 ## Binary Search
@@ -179,6 +180,7 @@
 | [0541-reverse-string-ii](https://github.com/aashik2005/leetcode/tree/master/0541-reverse-string-ii) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/aashik2005/leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/aashik2005/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/aashik2005/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aashik2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -217,6 +219,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/aashik2005/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/aashik2005/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/aashik2005/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/aashik2005/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/aashik2005/leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 ## Dynamic Programming
 |  |
