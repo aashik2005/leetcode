@@ -268,6 +268,7 @@
 | [0441-arranging-coins](https://github.com/aashik2005/leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/aashik2005/leetcode/tree/master/0507-perfect-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aashik2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1610-xor-operation-in-an-array](https://github.com/aashik2005/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/aashik2005/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/aashik2005/leetcode/tree/master/2050-count-good-numbers) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/aashik2005/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -397,6 +398,7 @@
 | [0231-power-of-two](https://github.com/aashik2005/leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/aashik2005/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/aashik2005/leetcode/tree/master/0342-power-of-four) |
+| [1610-xor-operation-in-an-array](https://github.com/aashik2005/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2659-number-of-even-and-odd-bits](https://github.com/aashik2005/leetcode/tree/master/2659-number-of-even-and-odd-bits) |
 ## Prefix Sum
 |  |
