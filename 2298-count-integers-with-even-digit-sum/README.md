@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-integers-with-even-digit-sum">2298. Count Integers With Even Digit Sum</a></h2><h3>Easy</h3><hr><p>Given a positive integer <code>num</code>, return <em>the number of positive integers <strong>less than or equal to</strong></em> <code>num</code> <em>whose digit sums are <strong>even</strong></em>.</p>
+<h2><a href="https://leetcode.com/problems/count-integers-with-even-digit-sum">Count Integers With Even Digit Sum</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given a positive integer <code>num</code>, return <em>the number of positive integers <strong>less than or equal to</strong></em> <code>num</code> <em>whose digit sums are <strong>even</strong></em>.</p>
 
 <p>The <strong>digit sum</strong> of a positive integer is the sum of all its digits.</p>
 
