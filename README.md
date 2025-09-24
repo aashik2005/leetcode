@@ -77,6 +77,7 @@
 | [0924-fair-candy-swap](https://github.com/aashik2005/leetcode/tree/master/0924-fair-candy-swap) |
 | [0954-maximum-sum-circular-subarray](https://github.com/aashik2005/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/aashik2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1019-squares-of-a-sorted-array](https://github.com/aashik2005/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1039-find-the-town-judge](https://github.com/aashik2005/leetcode/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/aashik2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aashik2005/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -189,6 +190,7 @@
 | [0344-reverse-string](https://github.com/aashik2005/leetcode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/aashik2005/leetcode/tree/master/0541-reverse-string-ii) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/aashik2005/leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [1019-squares-of-a-sorted-array](https://github.com/aashik2005/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/aashik2005/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/aashik2005/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aashik2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -365,6 +367,7 @@
 | [0414-third-maximum-number](https://github.com/aashik2005/leetcode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/aashik2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0924-fair-candy-swap](https://github.com/aashik2005/leetcode/tree/master/0924-fair-candy-swap) |
+| [1019-squares-of-a-sorted-array](https://github.com/aashik2005/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [3226-minimum-number-game](https://github.com/aashik2005/leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/aashik2005/leetcode/tree/master/3321-type-of-triangle) |
 ## Simulation
