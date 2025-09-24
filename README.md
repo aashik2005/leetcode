@@ -231,6 +231,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/aashik2005/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/aashik2005/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/aashik2005/leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [3312-number-of-changing-keys](https://github.com/aashik2005/leetcode/tree/master/3312-number-of-changing-keys) |
 ## Dynamic Programming
 |  |
 | ------- |
