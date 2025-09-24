@@ -217,6 +217,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/aashik2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/aashik2005/leetcode/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/aashik2005/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0742-to-lower-case](https://github.com/aashik2005/leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/aashik2005/leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/aashik2005/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/aashik2005/leetcode/tree/master/1250-longest-common-subsequence) |
