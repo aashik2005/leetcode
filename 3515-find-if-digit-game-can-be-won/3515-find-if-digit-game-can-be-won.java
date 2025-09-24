@@ -10,10 +10,7 @@ class Solution {
                 doub+=n;
             }
         }
-        if(single==doub)
-        return false;
-        else
-        return true;
+        return (single!=doub);
     }
 
 }
