@@ -270,6 +270,7 @@
 | [2050-count-good-numbers](https://github.com/aashik2005/leetcode/tree/master/2050-count-good-numbers) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/aashik2005/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aashik2005/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2630-alternating-digit-sum](https://github.com/aashik2005/leetcode/tree/master/2630-alternating-digit-sum) |
 | [2752-sum-multiples](https://github.com/aashik2005/leetcode/tree/master/2752-sum-multiples) |
 ## Divide and Conquer
 |  |
