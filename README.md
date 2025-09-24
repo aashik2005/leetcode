@@ -397,6 +397,7 @@
 | [0231-power-of-two](https://github.com/aashik2005/leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/aashik2005/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/aashik2005/leetcode/tree/master/0342-power-of-four) |
+| [2659-number-of-even-and-odd-bits](https://github.com/aashik2005/leetcode/tree/master/2659-number-of-even-and-odd-bits) |
 ## Prefix Sum
 |  |
 | ------- |
