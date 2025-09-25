@@ -92,6 +92,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/aashik2005/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/aashik2005/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/aashik2005/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/aashik2005/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aashik2005/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/aashik2005/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/aashik2005/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -238,6 +239,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aashik2005/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aashik2005/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aashik2005/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/aashik2005/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/aashik2005/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/aashik2005/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/aashik2005/leetcode/tree/master/2032-largest-odd-number-in-string) |
