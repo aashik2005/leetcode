@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/modify-the-matrix">3330. Modify the Matrix</a></h2><h3>Easy</h3><hr><p>Given a <strong>0-indexed</strong> <code>m x n</code> integer matrix <code>matrix</code>, create a new <strong>0-indexed</strong> matrix called <code>answer</code>. Make <code>answer</code> equal to <code>matrix</code>, then replace each element with the value <code>-1</code> with the <strong>maximum</strong> element in its respective column.</p>
+<h2><a href="https://leetcode.com/problems/modify-the-matrix">Modify the Matrix</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given a <strong>0-indexed</strong> <code>m x n</code> integer matrix <code>matrix</code>, create a new <strong>0-indexed</strong> matrix called <code>answer</code>. Make <code>answer</code> equal to <code>matrix</code>, then replace each element with the value <code>-1</code> with the <strong>maximum</strong> element in its respective column.</p>
 
 <p>Return <em>the matrix</em> <code>answer</code>.</p>
 
