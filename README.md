@@ -67,6 +67,7 @@
 | [0525-contiguous-array](https://github.com/aashik2005/leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aashik2005/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aashik2005/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/aashik2005/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/aashik2005/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0682-baseball-game](https://github.com/aashik2005/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/aashik2005/leetcode/tree/master/0724-find-pivot-index) |
@@ -169,6 +170,7 @@
 | [0073-set-matrix-zeroes](https://github.com/aashik2005/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aashik2005/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aashik2005/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0566-reshape-the-matrix](https://github.com/aashik2005/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/aashik2005/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Two Pointers
@@ -400,6 +402,7 @@
 | [0059-spiral-matrix-ii](https://github.com/aashik2005/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/aashik2005/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/aashik2005/leetcode/tree/master/0412-fizz-buzz) |
+| [0566-reshape-the-matrix](https://github.com/aashik2005/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/aashik2005/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/aashik2005/leetcode/tree/master/0682-baseball-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/aashik2005/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
