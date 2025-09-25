@@ -107,6 +107,7 @@
 | [3194-find-words-containing-character](https://github.com/aashik2005/leetcode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/aashik2005/leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/aashik2005/leetcode/tree/master/3321-type-of-triangle) |
+| [3330-modify-the-matrix](https://github.com/aashik2005/leetcode/tree/master/3330-modify-the-matrix) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/aashik2005/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Binary Search
 |  |
@@ -173,6 +174,7 @@
 | [0566-reshape-the-matrix](https://github.com/aashik2005/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/aashik2005/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3330-modify-the-matrix](https://github.com/aashik2005/leetcode/tree/master/3330-modify-the-matrix) |
 ## Two Pointers
 |  |
 | ------- |
