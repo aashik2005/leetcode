@@ -250,6 +250,7 @@
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/aashik2005/leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/aashik2005/leetcode/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/aashik2005/leetcode/tree/master/3312-number-of-changing-keys) |
+| [3379-score-of-a-string](https://github.com/aashik2005/leetcode/tree/master/3379-score-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
