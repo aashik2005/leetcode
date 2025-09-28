@@ -151,6 +151,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/aashik2005/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aashik2005/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aashik2005/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/aashik2005/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
 ## Breadth-First Search
 |  |
@@ -515,6 +516,7 @@
 | [0042-trapping-rain-water](https://github.com/aashik2005/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aashik2005/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aashik2005/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/aashik2005/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/aashik2005/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/aashik2005/leetcode/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/aashik2005/leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -606,6 +608,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/aashik2005/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aashik2005/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aashik2005/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/aashik2005/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -614,4 +617,5 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/aashik2005/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aashik2005/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aashik2005/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/aashik2005/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
