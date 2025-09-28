@@ -152,6 +152,7 @@
 | [0112-path-sum](https://github.com/aashik2005/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aashik2005/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aashik2005/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/aashik2005/leetcode/tree/master/0226-invert-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
 ## Breadth-First Search
 |  |
@@ -159,6 +160,7 @@
 | [0100-same-tree](https://github.com/aashik2005/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aashik2005/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aashik2005/leetcode/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/aashik2005/leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/aashik2005/leetcode/tree/master/0322-coin-change) |
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
 ## Union Find
@@ -609,6 +611,7 @@
 | [0112-path-sum](https://github.com/aashik2005/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aashik2005/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aashik2005/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/aashik2005/leetcode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -618,4 +621,5 @@
 | [0112-path-sum](https://github.com/aashik2005/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aashik2005/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aashik2005/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/aashik2005/leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
