@@ -18,11 +18,12 @@ class Solution {
         if(root==null){
             return;
         }
-        traverse(root.left);
-        traverse(root.right);
         TreeNode temp=root.left;
         root.left=root.right;
         root.right=temp;
+        traverse(root.left);
+        traverse(root.right);
+        
     }
     public TreeNode invertTree(TreeNode root) {
         traverse(root);
