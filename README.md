@@ -227,6 +227,7 @@
 | [0344-reverse-string](https://github.com/aashik2005/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/aashik2005/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aashik2005/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/aashik2005/leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/aashik2005/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aashik2005/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/aashik2005/leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
@@ -258,6 +259,7 @@
 | [0344-reverse-string](https://github.com/aashik2005/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/aashik2005/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aashik2005/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/aashik2005/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/aashik2005/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/aashik2005/leetcode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/aashik2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -302,6 +304,7 @@
 | [0152-maximum-product-subarray](https://github.com/aashik2005/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/aashik2005/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/aashik2005/leetcode/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/aashik2005/leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/aashik2005/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0518-coin-change-ii](https://github.com/aashik2005/leetcode/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/aashik2005/leetcode/tree/master/0747-min-cost-climbing-stairs) |
