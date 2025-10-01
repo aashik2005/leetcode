@@ -290,6 +290,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/aashik2005/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/aashik2005/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/aashik2005/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2365-percentage-of-letter-in-string](https://github.com/aashik2005/leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2727-number-of-senior-citizens](https://github.com/aashik2005/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/aashik2005/leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/aashik2005/leetcode/tree/master/3194-find-words-containing-character) |
