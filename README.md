@@ -115,6 +115,7 @@
 | [2727-number-of-senior-citizens](https://github.com/aashik2005/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/aashik2005/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/aashik2005/leetcode/tree/master/3194-find-words-containing-character) |
+| [3221-find-the-peaks](https://github.com/aashik2005/leetcode/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/aashik2005/leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/aashik2005/leetcode/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/aashik2005/leetcode/tree/master/3330-modify-the-matrix) |
@@ -659,4 +660,8 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/aashik2005/leetcode/tree/master/0176-second-highest-salary) |
+## Enumeration
+|  |
+| ------- |
+| [3221-find-the-peaks](https://github.com/aashik2005/leetcode/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->
