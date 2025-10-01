@@ -340,6 +340,7 @@
 | [0507-perfect-number](https://github.com/aashik2005/leetcode/tree/master/0507-perfect-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aashik2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1610-xor-operation-in-an-array](https://github.com/aashik2005/leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [1642-water-bottles](https://github.com/aashik2005/leetcode/tree/master/1642-water-bottles) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/aashik2005/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/aashik2005/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/aashik2005/leetcode/tree/master/2050-count-good-numbers) |
@@ -461,6 +462,7 @@
 | [0566-reshape-the-matrix](https://github.com/aashik2005/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/aashik2005/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/aashik2005/leetcode/tree/master/0682-baseball-game) |
+| [1642-water-bottles](https://github.com/aashik2005/leetcode/tree/master/1642-water-bottles) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/aashik2005/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aashik2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/aashik2005/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
