@@ -110,6 +110,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/aashik2005/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aashik2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aashik2005/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2551-apply-operations-to-an-array](https://github.com/aashik2005/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aashik2005/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/aashik2005/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/aashik2005/leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -240,6 +241,7 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/aashik2005/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/aashik2005/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aashik2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2551-apply-operations-to-an-array](https://github.com/aashik2005/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -472,6 +474,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/aashik2005/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aashik2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/aashik2005/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2551-apply-operations-to-an-array](https://github.com/aashik2005/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/aashik2005/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3226-minimum-number-game](https://github.com/aashik2005/leetcode/tree/master/3226-minimum-number-game) |
 ## Greedy
