@@ -93,6 +93,7 @@
 | [1039-find-the-town-judge](https://github.com/aashik2005/leetcode/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/aashik2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aashik2005/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1137-height-checker](https://github.com/aashik2005/leetcode/tree/master/1137-height-checker) |
 | [1293-three-consecutive-odds](https://github.com/aashik2005/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aashik2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aashik2005/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -467,6 +468,7 @@
 | [0645-set-mismatch](https://github.com/aashik2005/leetcode/tree/master/0645-set-mismatch) |
 | [0924-fair-candy-swap](https://github.com/aashik2005/leetcode/tree/master/0924-fair-candy-swap) |
 | [1019-squares-of-a-sorted-array](https://github.com/aashik2005/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1137-height-checker](https://github.com/aashik2005/leetcode/tree/master/1137-height-checker) |
 | [3226-minimum-number-game](https://github.com/aashik2005/leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/aashik2005/leetcode/tree/master/3321-type-of-triangle) |
 ## Simulation
@@ -687,4 +689,8 @@
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/aashik2005/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/aashik2005/leetcode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
