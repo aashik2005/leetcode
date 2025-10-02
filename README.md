@@ -84,6 +84,7 @@
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/aashik2005/leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0890-lemonade-change](https://github.com/aashik2005/leetcode/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/aashik2005/leetcode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/aashik2005/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/aashik2005/leetcode/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/aashik2005/leetcode/tree/master/0941-sort-array-by-parity) |
@@ -210,6 +211,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/aashik2005/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/aashik2005/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
+| [0898-transpose-matrix](https://github.com/aashik2005/leetcode/tree/master/0898-transpose-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/aashik2005/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3330-modify-the-matrix](https://github.com/aashik2005/leetcode/tree/master/3330-modify-the-matrix) |
 ## Two Pointers
@@ -490,6 +492,7 @@
 | [0566-reshape-the-matrix](https://github.com/aashik2005/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/aashik2005/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/aashik2005/leetcode/tree/master/0682-baseball-game) |
+| [0898-transpose-matrix](https://github.com/aashik2005/leetcode/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/aashik2005/leetcode/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/aashik2005/leetcode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/aashik2005/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
