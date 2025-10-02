@@ -86,6 +86,7 @@
 | [0890-lemonade-change](https://github.com/aashik2005/leetcode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/aashik2005/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/aashik2005/leetcode/tree/master/0924-fair-candy-swap) |
+| [0941-sort-array-by-parity](https://github.com/aashik2005/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0954-maximum-sum-circular-subarray](https://github.com/aashik2005/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0958-sort-array-by-parity-ii](https://github.com/aashik2005/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/aashik2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -246,6 +247,7 @@
 | [0541-reverse-string-ii](https://github.com/aashik2005/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aashik2005/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/aashik2005/leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [0941-sort-array-by-parity](https://github.com/aashik2005/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/aashik2005/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/aashik2005/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2128-reverse-prefix-of-word](https://github.com/aashik2005/leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -471,6 +473,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/aashik2005/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/aashik2005/leetcode/tree/master/0645-set-mismatch) |
 | [0924-fair-candy-swap](https://github.com/aashik2005/leetcode/tree/master/0924-fair-candy-swap) |
+| [0941-sort-array-by-parity](https://github.com/aashik2005/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/aashik2005/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/aashik2005/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/aashik2005/leetcode/tree/master/1137-height-checker) |
