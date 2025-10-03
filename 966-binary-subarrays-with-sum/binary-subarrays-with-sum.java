@@ -1,20 +1,20 @@
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
-        Map<Integer, Integer> prefixCount = new HashMap<>();
-        prefixCount.put(0, 1); // base case
+        return atMost(nums, goal) - atMost(nums, goal - 1);
+    }
 
-        int sum = 0, count = 0;
-
-        for (int num : nums) {
-            sum += num;
-
-            if (prefixCount.containsKey(sum - goal)) {
-                count += prefixCount.get(sum - goal);
+    private int atMost(int[] nums, int goal) {
+        if (goal < 0) return 0;
+        int l = 0, r = 0, cnt = 0, sum = 0;
+        while (r < nums.length) {
+            sum += nums[r];
+            while (sum > goal) {
+                sum -= nums[l];
+                l++;
             }
-
-            prefixCount.put(sum, prefixCount.getOrDefault(sum, 0) + 1);
+            cnt += (r - l + 1);
+            r++;
         }
-
-        return count;
+        return cnt;
     }
 }
