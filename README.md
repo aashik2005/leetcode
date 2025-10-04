@@ -93,6 +93,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/aashik2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/aashik2005/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/aashik2005/leetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [1034-subarrays-with-k-different-integers](https://github.com/aashik2005/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/aashik2005/leetcode/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/aashik2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aashik2005/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -424,6 +425,7 @@
 | [0645-set-mismatch](https://github.com/aashik2005/leetcode/tree/master/0645-set-mismatch) |
 | [0924-fair-candy-swap](https://github.com/aashik2005/leetcode/tree/master/0924-fair-candy-swap) |
 | [0966-binary-subarrays-with-sum](https://github.com/aashik2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/aashik2005/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/aashik2005/leetcode/tree/master/1039-find-the-town-judge) |
 | [1297-maximum-number-of-balloons](https://github.com/aashik2005/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aashik2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -443,6 +445,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/aashik2005/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/aashik2005/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/aashik2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/aashik2005/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/aashik2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aashik2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aashik2005/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -521,6 +524,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/aashik2005/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aashik2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/aashik2005/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1034-subarrays-with-k-different-integers](https://github.com/aashik2005/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1297-maximum-number-of-balloons](https://github.com/aashik2005/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aashik2005/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aashik2005/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
