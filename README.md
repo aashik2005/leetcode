@@ -134,6 +134,7 @@
 | [3321-type-of-triangle](https://github.com/aashik2005/leetcode/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/aashik2005/leetcode/tree/master/3330-modify-the-matrix) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/aashik2005/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [4058-compute-alternating-sum](https://github.com/aashik2005/leetcode/tree/master/4058-compute-alternating-sum) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/aashik2005/leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/aashik2005/leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Binary Search
@@ -518,6 +519,7 @@
 | [2639-separate-the-digits-in-an-array](https://github.com/aashik2005/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3226-minimum-number-game](https://github.com/aashik2005/leetcode/tree/master/3226-minimum-number-game) |
 | [3336-water-bottles-ii](https://github.com/aashik2005/leetcode/tree/master/3336-water-bottles-ii) |
+| [4058-compute-alternating-sum](https://github.com/aashik2005/leetcode/tree/master/4058-compute-alternating-sum) |
 ## Greedy
 |  |
 | ------- |
