@@ -135,6 +135,7 @@
 | [3321-type-of-triangle](https://github.com/aashik2005/leetcode/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/aashik2005/leetcode/tree/master/3330-modify-the-matrix) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/aashik2005/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3998-minimum-operations-to-equalize-array](https://github.com/aashik2005/leetcode/tree/master/3998-minimum-operations-to-equalize-array) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/aashik2005/leetcode/tree/master/4011-smallest-absent-positive-greater-than-average) |
 | [4039-compute-decimal-representation](https://github.com/aashik2005/leetcode/tree/master/4039-compute-decimal-representation) |
 | [4058-compute-alternating-sum](https://github.com/aashik2005/leetcode/tree/master/4058-compute-alternating-sum) |
@@ -566,6 +567,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/aashik2005/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/aashik2005/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2659-number-of-even-and-odd-bits](https://github.com/aashik2005/leetcode/tree/master/2659-number-of-even-and-odd-bits) |
+| [3998-minimum-operations-to-equalize-array](https://github.com/aashik2005/leetcode/tree/master/3998-minimum-operations-to-equalize-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -737,4 +739,8 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/aashik2005/leetcode/tree/master/1137-height-checker) |
+## Brainteaser
+|  |
+| ------- |
+| [3998-minimum-operations-to-equalize-array](https://github.com/aashik2005/leetcode/tree/master/3998-minimum-operations-to-equalize-array) |
 <!---LeetCode Topics End-->
