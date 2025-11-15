@@ -135,6 +135,7 @@
 | [3321-type-of-triangle](https://github.com/aashik2005/leetcode/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/aashik2005/leetcode/tree/master/3330-modify-the-matrix) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/aashik2005/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [4011-smallest-absent-positive-greater-than-average](https://github.com/aashik2005/leetcode/tree/master/4011-smallest-absent-positive-greater-than-average) |
 | [4039-compute-decimal-representation](https://github.com/aashik2005/leetcode/tree/master/4039-compute-decimal-representation) |
 | [4058-compute-alternating-sum](https://github.com/aashik2005/leetcode/tree/master/4058-compute-alternating-sum) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/aashik2005/leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
@@ -451,6 +452,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/aashik2005/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aashik2005/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/aashik2005/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [4011-smallest-absent-positive-greater-than-average](https://github.com/aashik2005/leetcode/tree/master/4011-smallest-absent-positive-greater-than-average) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/aashik2005/leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/aashik2005/leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Sliding Window
