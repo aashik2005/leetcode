@@ -1,6 +1,6 @@
 class Solution {
     private static boolean prime(int val){
-        for(int i=2;i<val-1;i++){
+        for(int i=2;i*i<=val;i++){
             if(val%i==0){
                 return false;
             }
