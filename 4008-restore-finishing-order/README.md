@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/restore-finishing-order">Restore Finishing Order</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer array <code>order</code> of length <code>n</code> and an integer array <code>friends</code>.</p>
+<h2><a href="https://leetcode.com/problems/restore-finishing-order">4008. Restore Finishing Order</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>order</code> of length <code>n</code> and an integer array <code>friends</code>.</p>
 
 <ul>
 	<li><code>order</code> contains every integer from 1 to <code>n</code> <strong>exactly once</strong>, representing the IDs of the participants of a race in their <strong>finishing</strong> order.</li>
