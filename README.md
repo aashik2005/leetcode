@@ -399,6 +399,7 @@
 | [3336-water-bottles-ii](https://github.com/aashik2005/leetcode/tree/master/3336-water-bottles-ii) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/aashik2005/leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/aashik2005/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/aashik2005/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/aashik2005/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/aashik2005/leetcode/tree/master/3994-find-the-least-frequent-digit) |
 | [4039-compute-decimal-representation](https://github.com/aashik2005/leetcode/tree/master/4039-compute-decimal-representation) |
@@ -583,6 +584,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/aashik2005/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/aashik2005/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2659-number-of-even-and-odd-bits](https://github.com/aashik2005/leetcode/tree/master/2659-number-of-even-and-odd-bits) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/aashik2005/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/aashik2005/leetcode/tree/master/3998-minimum-operations-to-equalize-array) |
 ## Prefix Sum
 |  |
