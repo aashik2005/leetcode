@@ -125,6 +125,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/aashik2005/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aashik2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aashik2005/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/aashik2005/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/aashik2005/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aashik2005/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/aashik2005/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
@@ -274,6 +275,7 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/aashik2005/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/aashik2005/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aashik2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/aashik2005/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/aashik2005/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## String
 |  |
@@ -463,6 +465,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/aashik2005/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/aashik2005/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aashik2005/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/aashik2005/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3227-find-missing-and-repeated-values](https://github.com/aashik2005/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/aashik2005/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/aashik2005/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -518,6 +521,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/aashik2005/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/aashik2005/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/aashik2005/leetcode/tree/master/1137-height-checker) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/aashik2005/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3226-minimum-number-game](https://github.com/aashik2005/leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/aashik2005/leetcode/tree/master/3321-type-of-triangle) |
 ## Simulation
