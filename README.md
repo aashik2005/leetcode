@@ -80,6 +80,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/aashik2005/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/aashik2005/leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/aashik2005/leetcode/tree/master/0682-baseball-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/aashik2005/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/aashik2005/leetcode/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/aashik2005/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/aashik2005/leetcode/tree/master/0792-binary-search) |
