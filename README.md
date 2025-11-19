@@ -150,6 +150,7 @@
 | [4058-compute-alternating-sum](https://github.com/aashik2005/leetcode/tree/master/4058-compute-alternating-sum) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/aashik2005/leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/aashik2005/leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
+| [4107-find-missing-elements](https://github.com/aashik2005/leetcode/tree/master/4107-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -480,6 +481,7 @@
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/aashik2005/leetcode/tree/master/4011-smallest-absent-positive-greater-than-average) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/aashik2005/leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/aashik2005/leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
+| [4107-find-missing-elements](https://github.com/aashik2005/leetcode/tree/master/4107-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -531,6 +533,7 @@
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/aashik2005/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3226-minimum-number-game](https://github.com/aashik2005/leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/aashik2005/leetcode/tree/master/3321-type-of-triangle) |
+| [4107-find-missing-elements](https://github.com/aashik2005/leetcode/tree/master/4107-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
