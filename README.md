@@ -140,6 +140,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/aashik2005/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/aashik2005/leetcode/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/aashik2005/leetcode/tree/master/3330-modify-the-matrix) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/aashik2005/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/aashik2005/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/aashik2005/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/aashik2005/leetcode/tree/master/3994-find-the-least-frequent-digit) |
@@ -477,6 +478,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/aashik2005/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/aashik2005/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/aashik2005/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/aashik2005/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/aashik2005/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/aashik2005/leetcode/tree/master/3994-find-the-least-frequent-digit) |
 | [4008-restore-finishing-order](https://github.com/aashik2005/leetcode/tree/master/4008-restore-finishing-order) |
@@ -604,6 +606,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/aashik2005/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/aashik2005/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2659-number-of-even-and-odd-bits](https://github.com/aashik2005/leetcode/tree/master/2659-number-of-even-and-odd-bits) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/aashik2005/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/aashik2005/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/aashik2005/leetcode/tree/master/3998-minimum-operations-to-equalize-array) |
 ## Prefix Sum
