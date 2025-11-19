@@ -143,6 +143,7 @@
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/aashik2005/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/aashik2005/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/aashik2005/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/aashik2005/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/aashik2005/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/aashik2005/leetcode/tree/master/3994-find-the-least-frequent-digit) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/aashik2005/leetcode/tree/master/3998-minimum-operations-to-equalize-array) |
@@ -481,6 +482,7 @@
 | [3408-count-the-number-of-special-characters-i](https://github.com/aashik2005/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/aashik2005/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/aashik2005/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/aashik2005/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/aashik2005/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/aashik2005/leetcode/tree/master/3994-find-the-least-frequent-digit) |
 | [4008-restore-finishing-order](https://github.com/aashik2005/leetcode/tree/master/4008-restore-finishing-order) |
