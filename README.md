@@ -127,6 +127,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/aashik2005/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aashik2005/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2404-most-frequent-even-element](https://github.com/aashik2005/leetcode/tree/master/2404-most-frequent-even-element) |
+| [2418-sort-the-people](https://github.com/aashik2005/leetcode/tree/master/2418-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/aashik2005/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/aashik2005/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aashik2005/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -338,6 +339,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/aashik2005/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/aashik2005/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2365-percentage-of-letter-in-string](https://github.com/aashik2005/leetcode/tree/master/2365-percentage-of-letter-in-string) |
+| [2418-sort-the-people](https://github.com/aashik2005/leetcode/tree/master/2418-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/aashik2005/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/aashik2005/leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/aashik2005/leetcode/tree/master/3194-find-words-containing-character) |
@@ -481,6 +483,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/aashik2005/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aashik2005/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2404-most-frequent-even-element](https://github.com/aashik2005/leetcode/tree/master/2404-most-frequent-even-element) |
+| [2418-sort-the-people](https://github.com/aashik2005/leetcode/tree/master/2418-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/aashik2005/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3227-find-missing-and-repeated-values](https://github.com/aashik2005/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/aashik2005/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -546,6 +549,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/aashik2005/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/aashik2005/leetcode/tree/master/1137-height-checker) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/aashik2005/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2418-sort-the-people](https://github.com/aashik2005/leetcode/tree/master/2418-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/aashik2005/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3226-minimum-number-game](https://github.com/aashik2005/leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/aashik2005/leetcode/tree/master/3321-type-of-triangle) |
