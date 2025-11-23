@@ -96,6 +96,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/aashik2005/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aashik2005/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/aashik2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1002-find-common-characters](https://github.com/aashik2005/leetcode/tree/master/1002-find-common-characters) |
 | [1019-squares-of-a-sorted-array](https://github.com/aashik2005/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/aashik2005/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aashik2005/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -325,6 +326,7 @@
 | [0742-to-lower-case](https://github.com/aashik2005/leetcode/tree/master/0742-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/aashik2005/leetcode/tree/master/0771-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/aashik2005/leetcode/tree/master/0812-rotate-string) |
+| [1002-find-common-characters](https://github.com/aashik2005/leetcode/tree/master/1002-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/aashik2005/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/aashik2005/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/aashik2005/leetcode/tree/master/1297-maximum-number-of-balloons) |
@@ -475,6 +477,7 @@
 | [0924-fair-candy-swap](https://github.com/aashik2005/leetcode/tree/master/0924-fair-candy-swap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aashik2005/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/aashik2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1002-find-common-characters](https://github.com/aashik2005/leetcode/tree/master/1002-find-common-characters) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aashik2005/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/aashik2005/leetcode/tree/master/1039-find-the-town-judge) |
 | [1297-maximum-number-of-balloons](https://github.com/aashik2005/leetcode/tree/master/1297-maximum-number-of-balloons) |
