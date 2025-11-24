@@ -97,6 +97,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aashik2005/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/aashik2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1002-find-common-characters](https://github.com/aashik2005/leetcode/tree/master/1002-find-common-characters) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/aashik2005/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/aashik2005/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/aashik2005/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aashik2005/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -630,6 +631,7 @@
 | [0287-find-the-duplicate-number](https://github.com/aashik2005/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/aashik2005/leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/aashik2005/leetcode/tree/master/0645-set-mismatch) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/aashik2005/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1610-xor-operation-in-an-array](https://github.com/aashik2005/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aashik2005/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/aashik2005/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
