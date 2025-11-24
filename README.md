@@ -70,6 +70,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/aashik2005/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aashik2005/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/aashik2005/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/aashik2005/leetcode/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/aashik2005/leetcode/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/aashik2005/leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aashik2005/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -321,6 +322,7 @@
 | [0412-fizz-buzz](https://github.com/aashik2005/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aashik2005/leetcode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/aashik2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/aashik2005/leetcode/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/aashik2005/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aashik2005/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/aashik2005/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -469,6 +471,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/aashik2005/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aashik2005/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/aashik2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/aashik2005/leetcode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/aashik2005/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aashik2005/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/aashik2005/leetcode/tree/master/0594-longest-harmonious-subsequence) |
