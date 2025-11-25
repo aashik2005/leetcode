@@ -116,6 +116,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/aashik2005/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aashik2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aashik2005/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aashik2005/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aashik2005/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/aashik2005/leetcode/tree/master/1511-count-number-of-teams) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/aashik2005/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -507,6 +508,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/aashik2005/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aashik2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aashik2005/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aashik2005/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aashik2005/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1496-path-crossing](https://github.com/aashik2005/leetcode/tree/master/1496-path-crossing) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aashik2005/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -584,6 +586,7 @@
 | [1137-height-checker](https://github.com/aashik2005/leetcode/tree/master/1137-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/aashik2005/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aashik2005/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aashik2005/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/aashik2005/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/aashik2005/leetcode/tree/master/2418-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/aashik2005/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
