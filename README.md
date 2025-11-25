@@ -108,6 +108,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/aashik2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aashik2005/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/aashik2005/leetcode/tree/master/1127-last-stone-weight) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/aashik2005/leetcode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1137-height-checker](https://github.com/aashik2005/leetcode/tree/master/1137-height-checker) |
 | [1293-three-consecutive-odds](https://github.com/aashik2005/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1331-rank-transform-of-an-array](https://github.com/aashik2005/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -497,6 +498,7 @@
 | [1002-find-common-characters](https://github.com/aashik2005/leetcode/tree/master/1002-find-common-characters) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aashik2005/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/aashik2005/leetcode/tree/master/1039-find-the-town-judge) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/aashik2005/leetcode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/aashik2005/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/aashik2005/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aashik2005/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -631,6 +633,7 @@
 | [0819-most-common-word](https://github.com/aashik2005/leetcode/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/aashik2005/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aashik2005/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/aashik2005/leetcode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/aashik2005/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aashik2005/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aashik2005/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
