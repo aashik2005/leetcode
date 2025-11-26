@@ -4,6 +4,7 @@ class Solution {
                c=='A' || c=='E' || c=='I' || c=='O' || c=='U';
     }
     public String reverseVowels(String s) {
+        //two pointer can be used as it needs to be reversed;
         String str="";
         char arr[]=s.toCharArray();
         for(int i=0;i<arr.length;i++){
