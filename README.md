@@ -133,6 +133,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aashik2005/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1944-truncate-sentence](https://github.com/aashik2005/leetcode/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/aashik2005/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/aashik2005/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2058-concatenation-of-array](https://github.com/aashik2005/leetcode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/aashik2005/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/aashik2005/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -527,6 +528,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/aashik2005/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/aashik2005/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/aashik2005/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/aashik2005/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/aashik2005/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aashik2005/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2404-most-frequent-even-element](https://github.com/aashik2005/leetcode/tree/master/2404-most-frequent-even-element) |
@@ -660,6 +662,7 @@
 | [1512-number-of-good-pairs](https://github.com/aashik2005/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/aashik2005/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/aashik2005/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/aashik2005/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aashik2005/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2404-most-frequent-even-element](https://github.com/aashik2005/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aashik2005/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
