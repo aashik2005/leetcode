@@ -91,6 +91,7 @@
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/aashik2005/leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0819-most-common-word](https://github.com/aashik2005/leetcode/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/aashik2005/leetcode/tree/master/0832-flipping-an-image) |
+| [0875-koko-eating-bananas](https://github.com/aashik2005/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/aashik2005/leetcode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/aashik2005/leetcode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/aashik2005/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -197,6 +198,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/aashik2005/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/aashik2005/leetcode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/aashik2005/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/aashik2005/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/aashik2005/leetcode/tree/master/0924-fair-candy-swap) |
 | [1046-max-consecutive-ones-iii](https://github.com/aashik2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
