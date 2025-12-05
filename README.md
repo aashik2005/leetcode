@@ -162,6 +162,7 @@
 | [3321-type-of-triangle](https://github.com/aashik2005/leetcode/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/aashik2005/leetcode/tree/master/3330-modify-the-matrix) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/aashik2005/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/aashik2005/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/aashik2005/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/aashik2005/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/aashik2005/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -452,6 +453,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/aashik2005/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/aashik2005/leetcode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/aashik2005/leetcode/tree/master/3336-water-bottles-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/aashik2005/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/aashik2005/leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/aashik2005/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/aashik2005/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -715,6 +717,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/aashik2005/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/aashik2005/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1833-find-the-highest-altitude](https://github.com/aashik2005/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/aashik2005/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Bucket Sort
 |  |
 | ------- |
