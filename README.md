@@ -441,6 +441,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/aashik2005/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1610-xor-operation-in-an-array](https://github.com/aashik2005/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/aashik2005/leetcode/tree/master/1642-water-bottles) |
+| [1925-count-square-sum-triples](https://github.com/aashik2005/leetcode/tree/master/1925-count-square-sum-triples) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/aashik2005/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/aashik2005/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/aashik2005/leetcode/tree/master/2050-count-good-numbers) |
@@ -868,6 +869,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/aashik2005/leetcode/tree/master/1925-count-square-sum-triples) |
 | [3221-find-the-peaks](https://github.com/aashik2005/leetcode/tree/master/3221-find-the-peaks) |
 ## Binary Search Tree
 |  |
