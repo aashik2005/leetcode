@@ -517,6 +517,7 @@
 | [0771-jewels-and-stones](https://github.com/aashik2005/leetcode/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/aashik2005/leetcode/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/aashik2005/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0895-maximum-frequency-stack](https://github.com/aashik2005/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0924-fair-candy-swap](https://github.com/aashik2005/leetcode/tree/master/0924-fair-candy-swap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aashik2005/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/aashik2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -753,6 +754,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/aashik2005/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/aashik2005/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/aashik2005/leetcode/tree/master/0682-baseball-game) |
+| [0895-maximum-frequency-stack](https://github.com/aashik2005/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [1078-remove-outermost-parentheses](https://github.com/aashik2005/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aashik2005/leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aashik2005/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -888,4 +890,12 @@
 |  |
 | ------- |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/aashik2005/leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Design
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/aashik2005/leetcode/tree/master/0895-maximum-frequency-stack) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/aashik2005/leetcode/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
