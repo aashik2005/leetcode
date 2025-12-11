@@ -10,6 +10,7 @@ class Solution {
                 mini=prices[i];
             }
         }
+        
         int[] dpdp=new int[n];
         int maxi=prices[n-1];
         for(int i=n-2;i>=0;i--){
