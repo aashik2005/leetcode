@@ -43,6 +43,7 @@
 | [0090-subsets-ii](https://github.com/aashik2005/leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/aashik2005/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aashik2005/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/aashik2005/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aashik2005/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aashik2005/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/aashik2005/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -404,6 +405,7 @@
 | [0070-climbing-stairs](https://github.com/aashik2005/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/aashik2005/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aashik2005/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/aashik2005/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aashik2005/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aashik2005/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/aashik2005/leetcode/tree/master/0131-palindrome-partitioning) |
