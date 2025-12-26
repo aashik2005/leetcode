@@ -385,6 +385,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/aashik2005/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2365-percentage-of-letter-in-string](https://github.com/aashik2005/leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2418-sort-the-people](https://github.com/aashik2005/leetcode/tree/master/2418-sort-the-people) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/aashik2005/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2727-number-of-senior-citizens](https://github.com/aashik2005/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/aashik2005/leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/aashik2005/leetcode/tree/master/3194-find-words-containing-character) |
@@ -738,6 +739,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/aashik2005/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/aashik2005/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1833-find-the-highest-altitude](https://github.com/aashik2005/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/aashik2005/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aashik2005/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Bucket Sort
 |  |
