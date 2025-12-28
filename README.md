@@ -121,6 +121,7 @@
 | [1293-three-consecutive-odds](https://github.com/aashik2005/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1331-rank-transform-of-an-array](https://github.com/aashik2005/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aashik2005/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aashik2005/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aashik2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aashik2005/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aashik2005/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -212,6 +213,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/aashik2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aashik2005/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aashik2005/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aashik2005/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aashik2005/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/aashik2005/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/aashik2005/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -269,6 +271,7 @@
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0832-flipping-an-image](https://github.com/aashik2005/leetcode/tree/master/0832-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/aashik2005/leetcode/tree/master/0898-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aashik2005/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/aashik2005/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/aashik2005/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/aashik2005/leetcode/tree/master/3330-modify-the-matrix) |
