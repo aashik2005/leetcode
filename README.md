@@ -344,6 +344,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aashik2005/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aashik2005/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aashik2005/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0044-wildcard-matching](https://github.com/aashik2005/leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/aashik2005/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/aashik2005/leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/aashik2005/leetcode/tree/master/0125-valid-palindrome) |
@@ -411,6 +412,7 @@
 | [0005-longest-palindromic-substring](https://github.com/aashik2005/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/aashik2005/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aashik2005/leetcode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/aashik2005/leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/aashik2005/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/aashik2005/leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/aashik2005/leetcode/tree/master/0064-minimum-path-sum) |
@@ -683,6 +685,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aashik2005/leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/aashik2005/leetcode/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/aashik2005/leetcode/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/aashik2005/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/aashik2005/leetcode/tree/master/0409-longest-palindrome) |
@@ -802,6 +805,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/aashik2005/leetcode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/aashik2005/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/aashik2005/leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/aashik2005/leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/aashik2005/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aashik2005/leetcode/tree/master/0206-reverse-linked-list) |
