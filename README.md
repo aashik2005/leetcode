@@ -349,6 +349,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aashik2005/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/aashik2005/leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/aashik2005/leetcode/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/aashik2005/leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/aashik2005/leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/aashik2005/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/aashik2005/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -423,6 +424,7 @@
 | [0062-unique-paths](https://github.com/aashik2005/leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/aashik2005/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/aashik2005/leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/aashik2005/leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/aashik2005/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aashik2005/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/aashik2005/leetcode/tree/master/0120-triangle) |
