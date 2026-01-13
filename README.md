@@ -137,6 +137,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/aashik2005/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aashik2005/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/aashik2005/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/aashik2005/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1603-running-sum-of-1d-array](https://github.com/aashik2005/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/aashik2005/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/aashik2005/leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -452,6 +453,7 @@
 | [1143-longest-common-subsequence](https://github.com/aashik2005/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/aashik2005/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1511-count-number-of-teams](https://github.com/aashik2005/leetcode/tree/master/1511-count-number-of-teams) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/aashik2005/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Math
 |  |
 | ------- |
@@ -663,6 +665,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/aashik2005/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aashik2005/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aashik2005/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/aashik2005/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aashik2005/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/aashik2005/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/aashik2005/leetcode/tree/master/2418-sort-the-people) |
