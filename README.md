@@ -80,6 +80,7 @@
 | [0494-target-sum](https://github.com/aashik2005/leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/aashik2005/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/aashik2005/leetcode/tree/master/0500-keyboard-row) |
+| [0503-next-greater-element-ii](https://github.com/aashik2005/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/aashik2005/leetcode/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/aashik2005/leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aashik2005/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -819,6 +820,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/aashik2005/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/aashik2005/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/aashik2005/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/aashik2005/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/aashik2005/leetcode/tree/master/0682-baseball-game) |
 | [0895-maximum-frequency-stack](https://github.com/aashik2005/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aashik2005/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -859,6 +861,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aashik2005/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/aashik2005/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/aashik2005/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
