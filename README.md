@@ -356,6 +356,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aashik2005/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aashik2005/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aashik2005/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/aashik2005/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/aashik2005/leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/aashik2005/leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/aashik2005/leetcode/tree/master/0072-edit-distance) |
@@ -429,6 +430,7 @@
 | [0005-longest-palindromic-substring](https://github.com/aashik2005/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/aashik2005/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/aashik2005/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aashik2005/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aashik2005/leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/aashik2005/leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/aashik2005/leetcode/tree/master/0053-maximum-subarray) |
@@ -820,6 +822,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/aashik2005/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aashik2005/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aashik2005/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aashik2005/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
