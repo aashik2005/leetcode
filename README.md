@@ -128,6 +128,7 @@
 | [1128-number-of-equivalent-domino-pairs](https://github.com/aashik2005/leetcode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1137-height-checker](https://github.com/aashik2005/leetcode/tree/master/1137-height-checker) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/aashik2005/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/aashik2005/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1293-three-consecutive-odds](https://github.com/aashik2005/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1331-rank-transform-of-an-array](https://github.com/aashik2005/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aashik2005/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -286,6 +287,7 @@
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0832-flipping-an-image](https://github.com/aashik2005/leetcode/tree/master/0832-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/aashik2005/leetcode/tree/master/0898-transpose-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/aashik2005/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aashik2005/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/aashik2005/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/aashik2005/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -468,6 +470,7 @@
 | [1092-shortest-common-supersequence](https://github.com/aashik2005/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/aashik2005/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/aashik2005/leetcode/tree/master/1250-longest-common-subsequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/aashik2005/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1511-count-number-of-teams](https://github.com/aashik2005/leetcode/tree/master/1511-count-number-of-teams) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/aashik2005/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Math
