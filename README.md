@@ -157,6 +157,7 @@
 | [1950-sign-of-the-product-of-an-array](https://github.com/aashik2005/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/aashik2005/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2058-concatenation-of-array](https://github.com/aashik2005/leetcode/tree/master/2058-concatenation-of-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/aashik2005/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/aashik2005/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/aashik2005/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aashik2005/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -849,6 +850,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/aashik2005/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aashik2005/leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aashik2005/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/aashik2005/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2128-reverse-prefix-of-word](https://github.com/aashik2005/leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Recursion
 |  |
@@ -886,6 +888,7 @@
 | [0496-next-greater-element-i](https://github.com/aashik2005/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aashik2005/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/aashik2005/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/aashik2005/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Binary Indexed Tree
 |  |
 | ------- |
