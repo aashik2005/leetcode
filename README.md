@@ -155,6 +155,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aashik2005/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1944-truncate-sentence](https://github.com/aashik2005/leetcode/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/aashik2005/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aashik2005/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/aashik2005/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2058-concatenation-of-array](https://github.com/aashik2005/leetcode/tree/master/2058-concatenation-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/aashik2005/leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -651,6 +652,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aashik2005/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aashik2005/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/aashik2005/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aashik2005/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/aashik2005/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Trie
 |  |
@@ -692,6 +694,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/aashik2005/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aashik2005/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/aashik2005/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aashik2005/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aashik2005/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/aashik2005/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/aashik2005/leetcode/tree/master/2418-sort-the-people) |
