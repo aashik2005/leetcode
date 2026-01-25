@@ -381,6 +381,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/aashik2005/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/aashik2005/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/aashik2005/leetcode/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/aashik2005/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/aashik2005/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/aashik2005/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aashik2005/leetcode/tree/master/0415-add-strings) |
@@ -734,6 +735,7 @@
 | [0044-wildcard-matching](https://github.com/aashik2005/leetcode/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/aashik2005/leetcode/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/aashik2005/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0402-remove-k-digits](https://github.com/aashik2005/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/aashik2005/leetcode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/aashik2005/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/aashik2005/leetcode/tree/master/0455-assign-cookies) |
@@ -840,6 +842,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/aashik2005/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aashik2005/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/aashik2005/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/aashik2005/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/aashik2005/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aashik2005/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/aashik2005/leetcode/tree/master/0682-baseball-game) |
@@ -885,6 +888,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aashik2005/leetcode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/aashik2005/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/aashik2005/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aashik2005/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/aashik2005/leetcode/tree/master/0907-sum-of-subarray-minimums) |
