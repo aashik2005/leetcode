@@ -61,6 +61,7 @@
 | [0213-house-robber-ii](https://github.com/aashik2005/leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/aashik2005/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aashik2005/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/aashik2005/leetcode/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/aashik2005/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/aashik2005/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/aashik2005/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -292,6 +293,7 @@
 | [0064-minimum-path-sum](https://github.com/aashik2005/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/aashik2005/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aashik2005/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0221-maximal-square](https://github.com/aashik2005/leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aashik2005/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/aashik2005/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0566-reshape-the-matrix](https://github.com/aashik2005/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -465,6 +467,7 @@
 | [0152-maximum-product-subarray](https://github.com/aashik2005/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/aashik2005/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aashik2005/leetcode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/aashik2005/leetcode/tree/master/0221-maximal-square) |
 | [0312-burst-balloons](https://github.com/aashik2005/leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/aashik2005/leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/aashik2005/leetcode/tree/master/0368-largest-divisible-subset) |
