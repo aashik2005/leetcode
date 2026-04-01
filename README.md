@@ -90,6 +90,7 @@
 | [0503-next-greater-element-ii](https://github.com/aashik2005/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/aashik2005/leetcode/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/aashik2005/leetcode/tree/master/0525-contiguous-array) |
+| [0529-minesweeper](https://github.com/aashik2005/leetcode/tree/master/0529-minesweeper) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aashik2005/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aashik2005/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/aashik2005/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -258,6 +259,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/aashik2005/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aashik2005/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/aashik2005/leetcode/tree/master/0226-invert-binary-tree) |
+| [0529-minesweeper](https://github.com/aashik2005/leetcode/tree/master/0529-minesweeper) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aashik2005/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
 ## Breadth-First Search
@@ -269,6 +271,7 @@
 | [0226-invert-binary-tree](https://github.com/aashik2005/leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/aashik2005/leetcode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/aashik2005/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0529-minesweeper](https://github.com/aashik2005/leetcode/tree/master/0529-minesweeper) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aashik2005/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
 ## Union Find
@@ -301,6 +304,7 @@
 | [0221-maximal-square](https://github.com/aashik2005/leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aashik2005/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/aashik2005/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0529-minesweeper](https://github.com/aashik2005/leetcode/tree/master/0529-minesweeper) |
 | [0566-reshape-the-matrix](https://github.com/aashik2005/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0832-flipping-an-image](https://github.com/aashik2005/leetcode/tree/master/0832-flipping-an-image) |
