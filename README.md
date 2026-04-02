@@ -195,6 +195,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/aashik2005/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/aashik2005/leetcode/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/aashik2005/leetcode/tree/master/3330-modify-the-matrix) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/aashik2005/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/aashik2005/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aashik2005/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/aashik2005/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -314,6 +315,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/aashik2005/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/aashik2005/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/aashik2005/leetcode/tree/master/3330-modify-the-matrix) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/aashik2005/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Two Pointers
 |  |
 | ------- |
@@ -500,6 +502,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aashik2005/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1511-count-number-of-teams](https://github.com/aashik2005/leetcode/tree/master/1511-count-number-of-teams) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/aashik2005/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/aashik2005/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Math
 |  |
 | ------- |
