@@ -128,6 +128,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/aashik2005/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/aashik2005/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aashik2005/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1034-coloring-a-border](https://github.com/aashik2005/leetcode/tree/master/1034-coloring-a-border) |
 | [1039-find-the-town-judge](https://github.com/aashik2005/leetcode/tree/master/1039-find-the-town-judge) |
 | [1043-partition-array-for-maximum-sum](https://github.com/aashik2005/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/aashik2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -265,6 +266,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aashik2005/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/aashik2005/leetcode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
+| [1034-coloring-a-border](https://github.com/aashik2005/leetcode/tree/master/1034-coloring-a-border) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -278,6 +280,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aashik2005/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/aashik2005/leetcode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
+| [1034-coloring-a-border](https://github.com/aashik2005/leetcode/tree/master/1034-coloring-a-border) |
 ## Union Find
 |  |
 | ------- |
@@ -314,6 +317,7 @@
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0832-flipping-an-image](https://github.com/aashik2005/leetcode/tree/master/0832-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/aashik2005/leetcode/tree/master/0898-transpose-matrix) |
+| [1034-coloring-a-border](https://github.com/aashik2005/leetcode/tree/master/1034-coloring-a-border) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aashik2005/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aashik2005/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/aashik2005/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
