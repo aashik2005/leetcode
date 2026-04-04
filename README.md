@@ -446,6 +446,7 @@
 | [1944-truncate-sentence](https://github.com/aashik2005/leetcode/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/aashik2005/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/aashik2005/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/aashik2005/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2128-reverse-prefix-of-word](https://github.com/aashik2005/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/aashik2005/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/aashik2005/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -761,6 +762,7 @@
 | [1642-water-bottles](https://github.com/aashik2005/leetcode/tree/master/1642-water-bottles) |
 | [1920-build-array-from-permutation](https://github.com/aashik2005/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/aashik2005/leetcode/tree/master/2058-concatenation-of-array) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/aashik2005/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/aashik2005/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aashik2005/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aashik2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
