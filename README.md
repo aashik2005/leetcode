@@ -204,6 +204,7 @@
 | [3515-find-if-digit-game-can-be-won](https://github.com/aashik2005/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/aashik2005/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aashik2005/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/aashik2005/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/aashik2005/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/aashik2005/leetcode/tree/master/3994-find-the-least-frequent-digit) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/aashik2005/leetcode/tree/master/3998-minimum-operations-to-equalize-array) |
@@ -578,6 +579,7 @@
 | [0347-top-k-frequent-elements](https://github.com/aashik2005/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0954-maximum-sum-circular-subarray](https://github.com/aashik2005/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aashik2005/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/aashik2005/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Hash Table
 |  |
 | ------- |
