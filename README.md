@@ -474,6 +474,7 @@
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/aashik2005/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3379-score-of-a-string](https://github.com/aashik2005/leetcode/tree/master/3379-score-of-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/aashik2005/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/aashik2005/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aashik2005/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/aashik2005/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
@@ -687,6 +688,7 @@
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/aashik2005/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/aashik2005/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/aashik2005/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3714-longest-balanced-substring-ii](https://github.com/aashik2005/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aashik2005/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aashik2005/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/aashik2005/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -893,6 +895,7 @@
 | [1833-find-the-highest-altitude](https://github.com/aashik2005/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/aashik2005/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aashik2005/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3714-longest-balanced-substring-ii](https://github.com/aashik2005/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 ## Bucket Sort
 |  |
 | ------- |
