@@ -271,6 +271,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/aashik2005/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aashik2005/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/aashik2005/leetcode/tree/master/0226-invert-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/aashik2005/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0529-minesweeper](https://github.com/aashik2005/leetcode/tree/master/0529-minesweeper) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aashik2005/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/aashik2005/leetcode/tree/master/0695-max-area-of-island) |
@@ -284,6 +285,7 @@
 | [0112-path-sum](https://github.com/aashik2005/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/aashik2005/leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/aashik2005/leetcode/tree/master/0322-coin-change) |
+| [0365-water-and-jug-problem](https://github.com/aashik2005/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0407-trapping-rain-water-ii](https://github.com/aashik2005/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0529-minesweeper](https://github.com/aashik2005/leetcode/tree/master/0529-minesweeper) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aashik2005/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -550,6 +552,7 @@
 | [0263-ugly-number](https://github.com/aashik2005/leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/aashik2005/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aashik2005/leetcode/tree/master/0342-power-of-four) |
+| [0365-water-and-jug-problem](https://github.com/aashik2005/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/aashik2005/leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/aashik2005/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/aashik2005/leetcode/tree/master/0412-fizz-buzz) |
