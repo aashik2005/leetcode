@@ -186,6 +186,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/aashik2005/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2404-most-frequent-even-element](https://github.com/aashik2005/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/aashik2005/leetcode/tree/master/2418-sort-the-people) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/aashik2005/leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aashik2005/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/aashik2005/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/aashik2005/leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -346,6 +347,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aashik2005/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1861-rotating-the-box](https://github.com/aashik2005/leetcode/tree/master/1861-rotating-the-box) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/aashik2005/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/aashik2005/leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3227-find-missing-and-repeated-values](https://github.com/aashik2005/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/aashik2005/leetcode/tree/master/3330-modify-the-matrix) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/aashik2005/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -911,6 +913,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/aashik2005/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/aashik2005/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1833-find-the-highest-altitude](https://github.com/aashik2005/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/aashik2005/leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/aashik2005/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aashik2005/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3714-longest-balanced-substring-ii](https://github.com/aashik2005/leetcode/tree/master/3714-longest-balanced-substring-ii) |
