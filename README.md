@@ -283,6 +283,7 @@
 | [0695-max-area-of-island](https://github.com/aashik2005/leetcode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1034-coloring-a-border](https://github.com/aashik2005/leetcode/tree/master/1034-coloring-a-border) |
+| [1971-find-if-path-exists-in-graph](https://github.com/aashik2005/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -301,6 +302,7 @@
 | [0695-max-area-of-island](https://github.com/aashik2005/leetcode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1034-coloring-a-border](https://github.com/aashik2005/leetcode/tree/master/1034-coloring-a-border) |
+| [1971-find-if-path-exists-in-graph](https://github.com/aashik2005/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
 | ------- |
@@ -1151,11 +1153,13 @@
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/aashik2005/leetcode/tree/master/0695-max-area-of-island) |
+| [1971-find-if-path-exists-in-graph](https://github.com/aashik2005/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aashik2005/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aashik2005/leetcode/tree/master/0210-course-schedule-ii) |
+| [1971-find-if-path-exists-in-graph](https://github.com/aashik2005/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
