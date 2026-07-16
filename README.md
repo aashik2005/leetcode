@@ -280,6 +280,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/aashik2005/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0529-minesweeper](https://github.com/aashik2005/leetcode/tree/master/0529-minesweeper) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aashik2005/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/aashik2005/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/aashik2005/leetcode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1034-coloring-a-border](https://github.com/aashik2005/leetcode/tree/master/1034-coloring-a-border) |
@@ -299,6 +300,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/aashik2005/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0529-minesweeper](https://github.com/aashik2005/leetcode/tree/master/0529-minesweeper) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aashik2005/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/aashik2005/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/aashik2005/leetcode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1034-coloring-a-border](https://github.com/aashik2005/leetcode/tree/master/1034-coloring-a-border) |
@@ -1152,6 +1154,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/aashik2005/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/aashik2005/leetcode/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aashik2005/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -1159,6 +1162,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/aashik2005/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aashik2005/leetcode/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/aashik2005/leetcode/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aashik2005/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
