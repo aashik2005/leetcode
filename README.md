@@ -215,6 +215,7 @@
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/aashik2005/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aashik2005/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/aashik2005/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aashik2005/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/aashik2005/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/aashik2005/leetcode/tree/master/3994-find-the-least-frequent-digit) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/aashik2005/leetcode/tree/master/3998-minimum-operations-to-equalize-array) |
@@ -409,6 +410,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/aashik2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/aashik2005/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/aashik2005/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aashik2005/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -604,6 +606,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aashik2005/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/aashik2005/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/aashik2005/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aashik2005/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/aashik2005/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/aashik2005/leetcode/tree/master/3994-find-the-least-frequent-digit) |
 | [4039-compute-decimal-representation](https://github.com/aashik2005/leetcode/tree/master/4039-compute-decimal-representation) |
@@ -797,6 +800,7 @@
 | [3075-maximize-happiness-of-selected-children](https://github.com/aashik2005/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3226-minimum-number-game](https://github.com/aashik2005/leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/aashik2005/leetcode/tree/master/3321-type-of-triangle) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aashik2005/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4107-find-missing-elements](https://github.com/aashik2005/leetcode/tree/master/4107-find-missing-elements) |
 ## Simulation
 |  |
@@ -828,6 +832,7 @@
 | [3336-water-bottles-ii](https://github.com/aashik2005/leetcode/tree/master/3336-water-bottles-ii) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/aashik2005/leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aashik2005/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aashik2005/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4058-compute-alternating-sum](https://github.com/aashik2005/leetcode/tree/master/4058-compute-alternating-sum) |
 ## Greedy
 |  |
@@ -1057,6 +1062,7 @@
 | [0258-add-digits](https://github.com/aashik2005/leetcode/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/aashik2005/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aashik2005/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aashik2005/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/aashik2005/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Graph
 |  |
