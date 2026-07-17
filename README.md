@@ -95,6 +95,7 @@
 | [0525-contiguous-array](https://github.com/aashik2005/leetcode/tree/master/0525-contiguous-array) |
 | [0529-minesweeper](https://github.com/aashik2005/leetcode/tree/master/0529-minesweeper) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aashik2005/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/aashik2005/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/aashik2005/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/aashik2005/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/aashik2005/leetcode/tree/master/0575-distribute-candies) |
@@ -305,6 +306,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/aashik2005/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/aashik2005/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0529-minesweeper](https://github.com/aashik2005/leetcode/tree/master/0529-minesweeper) |
+| [0542-01-matrix](https://github.com/aashik2005/leetcode/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aashik2005/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/aashik2005/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/aashik2005/leetcode/tree/master/0695-max-area-of-island) |
@@ -349,6 +351,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/aashik2005/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/aashik2005/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0529-minesweeper](https://github.com/aashik2005/leetcode/tree/master/0529-minesweeper) |
+| [0542-01-matrix](https://github.com/aashik2005/leetcode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/aashik2005/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/aashik2005/leetcode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
@@ -544,6 +547,7 @@
 | [0494-target-sum](https://github.com/aashik2005/leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/aashik2005/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/aashik2005/leetcode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/aashik2005/leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/aashik2005/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/aashik2005/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/aashik2005/leetcode/tree/master/0747-min-cost-climbing-stairs) |
