@@ -131,6 +131,7 @@
 | [1002-find-common-characters](https://github.com/aashik2005/leetcode/tree/master/1002-find-common-characters) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/aashik2005/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/aashik2005/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1020-number-of-enclaves](https://github.com/aashik2005/leetcode/tree/master/1020-number-of-enclaves) |
 | [1025-minimum-cost-for-tickets](https://github.com/aashik2005/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aashik2005/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1034-coloring-a-border](https://github.com/aashik2005/leetcode/tree/master/1034-coloring-a-border) |
@@ -286,6 +287,7 @@
 | [0684-redundant-connection](https://github.com/aashik2005/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/aashik2005/leetcode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
+| [1020-number-of-enclaves](https://github.com/aashik2005/leetcode/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/aashik2005/leetcode/tree/master/1034-coloring-a-border) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aashik2005/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -307,6 +309,7 @@
 | [0684-redundant-connection](https://github.com/aashik2005/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/aashik2005/leetcode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
+| [1020-number-of-enclaves](https://github.com/aashik2005/leetcode/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/aashik2005/leetcode/tree/master/1034-coloring-a-border) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aashik2005/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union Find
@@ -351,6 +354,7 @@
 | [0794-swim-in-rising-water](https://github.com/aashik2005/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0832-flipping-an-image](https://github.com/aashik2005/leetcode/tree/master/0832-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/aashik2005/leetcode/tree/master/0898-transpose-matrix) |
+| [1020-number-of-enclaves](https://github.com/aashik2005/leetcode/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/aashik2005/leetcode/tree/master/1034-coloring-a-border) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aashik2005/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aashik2005/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1167,6 +1171,7 @@
 | [0130-surrounded-regions](https://github.com/aashik2005/leetcode/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/aashik2005/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/aashik2005/leetcode/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/aashik2005/leetcode/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aashik2005/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
